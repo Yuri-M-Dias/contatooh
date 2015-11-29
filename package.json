@@ -1,0 +1,28 @@
+{
+  "name": "contatooh",
+  "version": "0.0.0",
+  "description": "Projeto do livro MEAN - Casa do Código",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuri-M-Dias/contatooh.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "Yuri-M-Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuri-M-Dias/contatooh/issues"
+  },
+  "homepage": "https://github.com/Yuri-M-Dias/contatooh#readme",
+  "dependencies": {
+    "ejs": "^0.8.8",
+    "express": "^4.8.8",
+    "express-load": "^1.1.15"
+  }
+}
